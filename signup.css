@@ -1,0 +1,178 @@
+
+body {
+    
+    font-family: Arial, Helvetica, sans-serif;
+        }
+.logo {
+    height:35px;
+    width:70px;
+    position:absolute;
+    top:20px;
+    left:50px;
+}
+
+ 
+.logo_3{
+    height: 30px;
+    width:30px;
+    position:absolute; 
+    top:20px;
+    left:1280px;
+ 
+}
+
+h1 {
+text-align:center;
+font-size: 55px;
+margin: 0px;
+margin-bottom:7px;
+}
+
+p {
+text-align:center;
+font-size: 16px;
+}
+
+.color {
+color: #4285F4;
+font-size: 15px;
+}
+
+form input{
+    border: none;
+    outline: none;
+    display: block;
+    height: 40px;
+    margin: 20px;
+    font-size: 16px;
+    border-bottom:1px solid gray;
+    width: 300px;
+}
+
+form{
+    text-align: left;
+    margin-left: 300px;
+}
+
+
+.left button{
+    width:150px;
+    height:40px;
+    font-size: 16px;
+    border-radius: 100px;
+    background-color: white;    
+    margin-left: 20px;
+    margin-top: 15px;
+    border: 1px solid #1260cc;
+}
+
+.upd button{
+    width:150px;
+    height:40px;
+    font-size: 16px;
+    border-radius: 100px;
+    background-color: white;    
+    margin-left: 20px;
+    margin-top: 15px;
+    border: 1px solid #1260cc;
+}
+
+
+.right{
+float:left;
+position: absolute;
+top: 220px;
+margin-left:730px;
+
+
+}
+
+.input_box {
+    position: relative;
+}
+
+
+
+.input_box .icon {
+    width: 43px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    color: #3B5998;
+    background-color: white;
+    border-radius: 2px 0 0 2px;
+    font-size: 20px;
+    pointer-events: none;
+    border: 1px solid #00000003;
+    border-right: none;
+    border-color: #3B5998;
+
+}
+
+.input_box img {
+    width: 19px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 13px;
+    left: 11px;
+    bottom: 0px; 
+    background-color: white;
+    
+    pointer-events: none;
+    border-right: none;
+    border-color: #4285F4;
+
+
+}
+
+
+
+
+.right .fb button{
+    width:250px;
+    height:43px;
+    font-size: 14px;
+    border-radius: 2px;
+    border-color: #3B5998;
+    background-color: #3B5998; 
+    color: white;
+    text-align:center;
+    margin-left:27px;
+}
+
+.right .google button{
+    width:250px;
+    height:43px;
+    font-size: 14px;
+    border-radius: 2px;
+    border-color: #4285F4;
+    background-color: #4285F4; 
+    text-align: center;
+    color: white;
+    margin-left:27px;
+}
+
+
+.mid {
+    
+    text-align: center;
+    
+    margin-left: 490px;
+    margin-right: 450px;
+    margin-top: 100px;
+    line-height: 20px;
+
+
+}
+
+.mid p{
+    font-size: 13px;
+}
+
+
